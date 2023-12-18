@@ -14,7 +14,7 @@ function execute(){
     kk.setSystemBusinessPurposeShort('BusinessPurpose');
     kk.setSystemDescriptionLong('SystemDesc');
     kk.setServerPlatform('Windows');
-    kk.setServerOSVersion('7');
+    kk.setServerOSVersion('7234');
     kk.setDBMSPlatform('SQM');
     kk.setDBMSVersion('12');
     kk.setFileManagmentSystemType('NFS');
